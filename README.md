@@ -13,10 +13,10 @@
 
 | Blue Console (Theme 4) | Matrix Green (Theme 1) | Industrial (Theme 6) |
 | :---: | :---: | :---: |
-| ![Blue Console Preview](image_8e27e7.png) | ![Matrix Green Preview](image_8e2aed.png) | ![Industrial Preview](image_8e2b6a.png) |
+| ![Blue Console](scrnshts/image_8e27e7.png) | ![Matrix Green](scrnshts/image_8e2aed.png) | ![Industrial](scrnshts/image_8e2b6a.png) |
 
 ## 🛠 Quick Start
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/Movie-Terminal.git`
+1. Clone the repo: `git clone https://github.com/sofa-king-secure/movieterminal.git`
 2. Install dependencies: `pip install wonderwords`
 3. Run the engine: `python movie_terminal.py`
 
