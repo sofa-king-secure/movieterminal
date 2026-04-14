@@ -10,9 +10,16 @@
 - **Responsive:** Automatically detects terminal width for a full-screen "wall of data" look.
 
 ## 📸 Preview
-*(Insert a GIF of your terminal running here)*
+
+| Blue Console (Theme 4) | Matrix Green (Theme 1) | Industrial (Theme 6) |
+| :---: | :---: | :---: |
+| ![Blue Console Preview](image_8e27e7.png) | ![Matrix Green Preview](image_8e2aed.png) | ![Industrial Preview](image_8e2b6a.png) |
 
 ## 🛠 Quick Start
 1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/Movie-Terminal.git`
 2. Install dependencies: `pip install wonderwords`
 3. Run the engine: `python movie_terminal.py`
+
+## 📂 Documentation
+- [Installation Guide](INSTALL.md)
+- [Director's User Guide](USERGUIDE.md)
